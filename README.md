@@ -32,10 +32,8 @@ Whatsapp: +8801764984545
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saideeWD&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saideeWD)  
-
-![GitHub metrics](https://metrics.lecoq.io/saideeWD)  
+  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=saideeWD)  
 
-![Profile views](https://gpvc.arturio.dev/saideeWD)  
+
