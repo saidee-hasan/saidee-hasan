@@ -12,7 +12,7 @@ SKILLS:
 • Tools: Experienced in using tools Git, VS code, Chrome developer tools, Netlify, Vercel, firebase
 
 Let's connect and embark on the journey of bringing your dream website to life!
-Email: mdsaidehasan12345@gmail.com
+Email: mdsaideehasan@gmail.com
 Whatsapp: +8801764984545
 
 - 🔭 I’m currently working on a Team project thats name is electropoll 
