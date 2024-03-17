@@ -8,7 +8,7 @@ I am a seasoned MERN stack developer with over a year of professional experience
 SKILLS:
 • Expertise: JavaScript | ES6 | MongoDB | React.js | Tailwind | React-router
 • Comfortable: Rest Api | Express.js | Bootstrap || Jest || Redux
-• Familiar: Node.js | JWT | Tanstack query | stripe | Axios | Next.js | jest
+• Familiar: Node.js 
 • Tools: Experienced in using tools Git, VS code, Chrome developer tools, Netlify, Vercel, firebase
 
 Let's connect and embark on the journey of bringing your dream website to life!
