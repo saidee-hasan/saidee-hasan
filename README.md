@@ -25,14 +25,3 @@ Whatsapp: +8801764984545
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saideeWD)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saideeWD&show_icons=true&count_private=true)  
-
-  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=saideeWD)  
-
-
