@@ -21,7 +21,7 @@ Whatsapp: +8801764984545
 - 🤔 I’m looking for help with Web design and development 
 - 💬 Ask me about Web Development 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukulWD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
