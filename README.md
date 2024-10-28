@@ -22,7 +22,7 @@ Whatsapp: +8801764984545
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Web design and development 
 - 💬 Ask me about Web Development
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saideeWD)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
    <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidee-hasan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
