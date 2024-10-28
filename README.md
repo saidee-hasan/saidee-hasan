@@ -43,7 +43,7 @@ Whatsapp: +8801764984545
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=saidee-hasan)  
 
-![Profile views](https://gpvc.arturio.dev/saidee-hasan)  
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saideeWD)](https://github.com/anuraghazra/github-readme-stats)
