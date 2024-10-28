@@ -7,11 +7,13 @@
 Hello, I'm Saidee,
 I am a seasoned MERN stack developer with over a year of professional experience in crafting responsive websites. I specialize in building websites for a diverse range of purposes, including blogs, businesses, personal portfolios, and various industries. My expertise lies in creating lightning-fast web solutions that cater to your unique needs.
 
-SKILLS:
-• Expertise: JavaScript | ES6 | MongoDB | React.js | Tailwind | React-router
-• Comfortable: Rest Api | Express.js | Bootstrap || Jest || Redux
-• Familiar: Node.js 
-• Tools: Experienced in using tools Git, VS code, Chrome developer tools, Netlify, Vercel, firebase
+<h2 align="left">⚒️Technologies • Tools⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,jest,firebase" />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,photoshop,xd,figma,vite" /><br>
+</div>
 
 Let's connect and embark on the journey of bringing your dream website to life!
 Email: mdsaideehasan@gmail.com
