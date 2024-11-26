@@ -30,7 +30,9 @@ Whatsapp: +8801764984545
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=saidee-hasan)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidee-hasan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saidee-hasan&show_icons=true&count_private=true)  
 
