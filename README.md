@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Saidee Hasan
 #### I am Web Developer
- ![I am Web Developer](https://i.imghippo.com/files/vWc4o1707882681.png)
+ ![I am Web Developer](https://i.ibb.co.com/sJv2YBw/saidee-cover-phot-final-404.jpg)
 <h1 align="center">
-    <img src="https://i.ibb.co.com/sJv2YBw/saidee-cover-phot-final-404.jpg" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saidee+Hasan!;+A+Passionate+Frontend+Web+Developer+from+🇧🇩" />
 </h1>
 Hello, I'm Saidee,
 I am a seasoned MERN stack developer with over a year of professional experience in crafting responsive websites. I specialize in building websites for a diverse range of purposes, including blogs, businesses, personal portfolios, and various industries. My expertise lies in creating lightning-fast web solutions that cater to your unique needs.
