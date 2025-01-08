@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-    <img src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/471875068_122192256068182247_3303591620651676199_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEnz2mUK2myZrLGCUIR6n95pce3D5N6oGSlx7cPk3qgZI60DSui5iWgGI0tzvVj1f8c8yTIB-N6Yoa5IXLSW1gr&_nc_ohc=XCqcPvAvWngQ7kNvgHtzCQP&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=ArHG-zKnClfV6qrhXzRPRnz&oh=00_AYD8r99zBofZVmuWnveJ3NVOz0KWpUvranDHKWlTCrLv0g&oe=67840927" alt="Banner" width="100%" />
+    <img src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/471875068_122192256068182247_3303591620651676199_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEnz2mUK2myZrLGCUIR6n95pce3D5N6oGSlx7cPk3qgZI60DSui5iWgGI0tzvVj1f8c8yTIB-N6Yoa5IXLSW1gr&_nc_ohc=3P7GWS-yDSIQ7kNvgHkR8Dp&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=ATNMXHwLzyWtM9B9DvKRnFk&oh=00_AYCSUYnttnRrxXtPZeA4yc2DjoAcL1_Ei5QZMCpdDERNCQ&oe=6779B567" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -39,7 +39,7 @@ Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer** and **MERN St
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/saidee-hasan)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saidee-hasan)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/saidee-hasan)  
-[![Portfolio](https://saidee-hasan.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox)](https://saidee-hasan.netlify.app/)  
 
 ---
 
@@ -61,4 +61,5 @@ Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer** and **MERN St
 
 - [ElectroPoll](https://github.com/saidee-hasan/electropoll)  
 - [Portfolio Website](https://github.com/saidee-hasan/portfolio)  
+
 
