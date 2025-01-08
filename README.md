@@ -39,7 +39,7 @@ Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer** and **MERN St
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/saidee-hasan)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saidee-hasan)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/saidee-hasan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox)](https://fanciful-gumdrop-97ea87.netlify.app/)  
+[![Portfolio](https://saidee-hasan.netlify.app/)  
 
 ---
 
