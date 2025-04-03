@@ -3,11 +3,11 @@
 ---
 
 <div align="center">
-    <img src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/476838020_122199825056182247_2508325066763294549_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGDRcjorOYZpAUI0cII0P2MCIerXObuvsQIh6tc5u6-xLn2_SEkQ50xyWll_5F87Obcf2nNPjbSwfL8aGu1sVon&_nc_ohc=zkbFXKmaSlAQ7kNvgF_GjVr&_nc_oc=AdgTorymdZwhfGz7tvmXX8ulVv8SsYiXWIJlyBx_u04oiom7MRIDp1eyUADSlPDT_CQ&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=AN3xt2E7VyFGnHDHtNtBHZY&oh=00_AYEjVSb5XEghfgiEDhFOw2T_LSWV1pbU4pVdwOR5_W8R2w&oe=67D9BA69" alt="Banner" width="100%" />
+    <img src="https://i.ibb.co.com/BH0Q5Gdn/saidee-cover-phot-final-404.jpg" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">
-    <img src="https://i.ibb.co.com/kVNwsJkm/saidee-cover-phot-final-404.jpg" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saidee+Hasan!;+A+Passionate+Frontend+Web+Developer+from+🇧🇩" />
 </h1>
 
 ---
