@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Saidee Hasan  
-#### Passionate Web Developer  
+#### Passionate React Engineer | Problem Solver Developer  
 ---
 
 <div align="center">
@@ -27,7 +27,7 @@ Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer**, **React Engi
 ### ⚒️ Technologies & Tools  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,mongodb" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,mongodb,typescript,express,mongodb,mongoose,sql,postgresql,prisma" alt="Technologies" />
     <br />
     <img src="https://skillicons.dev/icons?i=vscode,git,github,photoshop,xd,figma,vite" alt="Tools" />
 </div>
