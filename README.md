@@ -14,7 +14,7 @@
 
 ### About Me
 
-Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer** and **MERN Stack Developer** from **Dhaka, Bangladesh**. I specialize in crafting responsive and scalable websites that are tailored to meet diverse needs—be it personal portfolios, blogs, or full-scale business platforms.  
+Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer**, **React Engineer**, **JavaScript Developer**, and **Problem-Solving Developer** from **Dhaka, Bangladesh**. I specialize in crafting responsive and scalable websites that are tailored to meet diverse needs—be it personal portfolios, blogs, or full-scale business platforms.  
 
 - 🔭 **Currently Working On**: Team project **ElectroPoll**  
 - 🌱 **Learning Focus**: Exploring **JavaScript** and **Next.js**  
@@ -59,5 +59,10 @@ Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer** and **MERN St
 
 ### 📌 Pinned Repositories  
 
-- [ElectroPoll](https://github.com/saidee-hasan/electropoll)  
-- [Portfolio Website](https://github.com/saidee-hasan/portfolio)  
+- [ElectroPoll](https://github.com/saidee-hasan/electropoll)   🚀 A full-stack MERN project that empowers users to participate in and manage polls effectively.
+
+- [Portfolio Website](https://github.com/saidee-hasan/portfolio)   🎯 Showcase your skills, projects, and achievements in a visually captivating and fully responsive design.
+
+- [Fullstack Blog App](https://github.com/saidee-hasan/fullstack-blog-app)   📝 A feature-rich blogging platform with user authentication, post management, and commenting system.
+
+- [Social Media Dashboard](https://github.com/saidee-hasan/social-media-dashboard)   📱 A responsive dashboard for managing social media accounts, analyzing metrics, and tracking performance.
