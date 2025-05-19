@@ -27,7 +27,7 @@ Hello, I'm **Saidee Hasan**, a seasoned **Frontend Web Developer**, **React Engi
 ### ⚒️ Technologies & Tools  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,mongodb,typescript,express,mongodb,mongoose,sql,postgresql,prisma" alt="Technologies" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,mongodb,typescript,express,mongoose,sql,postgresql,prisma" alt="Technologies" />
     <br />
     <img src="https://skillicons.dev/icons?i=vscode,git,github,photoshop,xd,figma,vite" alt="Tools" />
 </div>
