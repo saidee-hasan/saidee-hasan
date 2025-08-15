@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-    <img src="https://i.ibb.co.com/BH0Q5Gdn/saidee-cover-phot-final-404.jpg" alt="Banner" width="100%" />
+    <img src="https://i.ibb.co.com/0jFmmpf1/Whats-App-Image-2025-08-15-at-11-08-44-PM-1.jpg" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">
