@@ -1,5 +1,4 @@
-# 🚀 **SAIDEE HASAN** 
-#### **AI-Enhanced Full Stack Architect | Cybersecurity Specialist | MERN Stack Expert**
+
 
 <p align="center">
   <img src="https://i.ibb.co.com/0jFmmpf1/Whats-App-Image-2025-08-15-at-11-08-44-PM-1.jpg" alt="Full Stack AI Developer Banner" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
