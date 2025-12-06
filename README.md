@@ -341,7 +341,7 @@ Features:
 </td>
 <td width="50%">
 
-#### **🛡️ [CyberAuth](https://github.com/saidee-hasan)**
+#### **🛡️ [CyberAuth](https://github.com/saidee-hasan/cyberauth)**
 **Advanced Auth System**
 ```bash
 Status: In Development
@@ -359,7 +359,7 @@ Features:
 <tr>
 <td width="50%">
 
-#### **🛒 [ShopSphere](https://github.com/saidee-hasan)**
+#### **🛒 [ShopSphere](https://github.com/saidee-hasan/shopsphere)**
 **E-commerce Platform**
 ```bash
 Status: Planning Phase
@@ -375,7 +375,7 @@ Features:
 </td>
 <td width="50%">
 
-#### **🏦 [FinTech App](https://github.com/saidee-hasan)**
+#### **🏦 [FinTech App](https://github.com/saidee-hasan/fintech-app)**
 **Banking Application**
 ```bash
 Status: Development
@@ -462,7 +462,8 @@ Available Platforms:
   
   <sub>✨ "Building the web, one line of code at a time"</sub>
   <br/>
-  <sub>Last Updated: $(date +"%Y-%m-%d %H:%M:%S")</sub>
+  <sub>Last Updated: 2025-01-25</sub>
   
 </div>
 ```
+
