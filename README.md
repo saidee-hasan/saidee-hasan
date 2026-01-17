@@ -22,11 +22,11 @@
   
 | **Category** | **Technologies** | **Proficiency** |
 |--------------|------------------|-----------------|
-| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS | ![95%](https://progress-bar.dev/95/?title=Expert&color=61DAFB) |
-| **Backend** | Node.js, Express.js, Golang, REST APIs | ![90%](https://progress-bar.dev/90/?title=Advanced&color=339933) |
-| **Database** | MongoDB, PostgreSQL, Prisma ORM, Mongoose | ![88%](https://progress-bar.dev/88/?title=Advanced&color=4EA94B) |
-| **DevOps** | Docker, Nginx, CI/CD, AWS, Firebase | ![85%](https://progress-bar.dev/85/?title=Intermediate+&color=0078D4) |
-| **AI Tools** | Gemini AI, Jasper AI, OpenAI API, AI Automation | ![80%](https://progress-bar.dev/80/?title=Intermediate&color=FF6B6B) |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS | ![95%] |
+| **Backend** | Node.js, Express.js, Golang, REST APIs | ![90%] |
+| **Database** | MongoDB, PostgreSQL, Prisma ORM, Mongoose | !|
+| **DevOps** | Docker, Nginx, CI/CD, AWS, Firebase | ![85%] |
+| **AI Tools** | Gemini AI, Jasper AI, OpenAI API, AI Automation | ![80%] |
 
 </div>
 
