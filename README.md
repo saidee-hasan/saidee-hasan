@@ -1,9 +1,7 @@
 # 🚀 **Saidee Hasan** 
 #### **AI-Driven Full Stack MERN Developer | Cybersecurity Specialist | Web Architect**
 
-<p align="center">
-  <img src="https://i.ibb.co.com/0jFmmpf1/Whats-App-Image-2025-08-15-at-11-08-44-PM-1.jpg" alt="Full Stack MERN Developer" width="100%" />
-</p>
+
 
 <div align="center">
   
